@@ -21,5 +21,6 @@
   
   * 블로그: [권해용님의 음성인식 관련 블로그](https://gogyzzz.blogspot.com)
     - 글: [Automatic speech recognition - a deep learning approach (책) 챕터 1, 5, 13, 14 요약](https://gogyzzz.blogspot.com/2018/08/automatic-speech-recognition-deep.html?fbclid=IwAR2Tho2avcW3-UO292R5JDDMe0XoEi7TukfEoqCj9u1ZMEFUbY6jWUhUhAw)
+    - 번역: [Kaldi Toolkit을 이용한 음성인식 시스템의 구조 ppt (Shinozaki lab 자료 번역)](https://gogyzzz.blogspot.com/2017/08/construction-speech-recognition-system.html)
 
 ## 오디오/음향
