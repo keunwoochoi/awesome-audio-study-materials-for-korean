@@ -18,5 +18,8 @@
 
 ## 음성
   * 강연: [화자인식 기술 및 관련 연구 소개](https://www.youtube.com/watch?v=HzgCnlre4EE&fbclid=IwAR00Qkgb_WG_DJCmcAUOI_dgB5_KHhhMi2a-CDOAfadhsmR6RCauwmdOkmg), 네이버 D2, 허희수 (서울시립대 박사과정), 2018년 7월
+  
+  * 블로그: [권해용님의 음성인식 관련 블로그](https://gogyzzz.blogspot.com)
+    - 글: [Automatic speech recognition - a deep learning approach (책) 챕터 1, 5, 13, 14 요약](https://gogyzzz.blogspot.com/2018/08/automatic-speech-recognition-deep.html?fbclid=IwAR2Tho2avcW3-UO292R5JDDMe0XoEi7TukfEoqCj9u1ZMEFUbY6jWUhUhAw)
 
 ## 오디오/음향
