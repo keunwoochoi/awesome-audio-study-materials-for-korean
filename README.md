@@ -17,8 +17,8 @@
  * [네이버 블로그 '자몽'님의 정리 (국문)](http://blog.naver.com/PostList.nhn?blogId=rkdwnsdud555&from=postList&categoryNo=61)
 
 ## 음성
- * [Kaldi-based Korean ASR (한국어 음성인식) open-source project](https://github.com/goodatlas/zeroth)
- * [Kaldi Toolkit을 사용한 음성인식 시스템의 구조 ppt(shinozaki lab ppt 번역)](https://gogyzzz.blogspot.com/2017/08/construction-speech-recognition-system.html)
- * [Kaldi GMM ~ nnet2 노트](https://gogyzzz.blogspot.com/search/label/음성인식이론%20혼자%20공부하기)
- * [[Kaldi] install ( feat. on Mac )](https://jybaek.tistory.com/771) [[Kaldi] Run sample script on Mac](https://jybaek.tistory.com/772) [[Kaldi] voxforge online demo](https://jybaek.tistory.com/776)
+ * [Kaldi-based Korean ASR (한국어 음성인식) open-source project (국문, 깃헙)](https://github.com/goodatlas/zeroth)
+ * [Kaldi Toolkit을 사용한 음성인식 시스템의 구조 ppt(shinozaki lab ppt 번역 (국문))](https://gogyzzz.blogspot.com/2017/08/construction-speech-recognition-system.html)
+ * [Kaldi GMM ~ nnet2 노트(국문)](https://gogyzzz.blogspot.com/search/label/음성인식이론%20혼자%20공부하기)
+ * [[Kaldi] install ( feat. on Mac )(국문)](https://jybaek.tistory.com/771) [[Kaldi] Run sample script on Mac](https://jybaek.tistory.com/772) [[Kaldi] voxforge online demo](https://jybaek.tistory.com/776)
 ## 오디오/음향
