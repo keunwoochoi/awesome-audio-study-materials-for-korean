@@ -1,6 +1,7 @@
 # Awesome audio study materials for Korean
 
-오디오 관련 머신러닝 공부 자료 저장소입니다. 형식에 맞춰서 PR해주시면 추가하도록 하겠습니다.
+오디오 관련 머신러닝 공부 자료 저장소입니다. 형식에 맞춰서 PR해주시면 추가하도록 하겠습니다. 아니며 좋은 블로그나 본인의 학습자료를 [이슈](https://github.com/keunwoochoi/awesome-audio-study-materials-for-korean/issues)에 부담없이 올려주세요 :)
+
 형식: * 을 써서 목록으로 만들고 내용을 간단히 요약하고 링크를 걸어주시고, 영어 자료인 경우엔 (영문)이라고 표기해주세요.
  * [Awesome audio study materials for Korean](https://github.com/keunwoochoi/awesome-audio-study-materials-for-korean)
 
@@ -17,6 +18,7 @@
  * [KAIST 남주한 교수님 Music and Audio Computing 2018 가을학기 강의자료 (영문)](https://juhannam.github.io/ctp431/2018/?fbclid=IwAR3iObrJU2A5K3JOBqEcT-Qvf_v1Rr4E_r0fprJDUP4IJisdlH6M0U0jJts)
  * [남주한 교수님 수업 목록](http://mac.kaist.ac.kr/~juhan/teaching.html?fbclid=IwAR32Aw-1--W4F-A0jKfyDzpJa5IWvT72Qy8A9se2ZW2zoYnPTl_tZe-7kX0)
  * [네이버 블로그 '자몽'님의 정리](http://blog.naver.com/PostList.nhn?blogId=rkdwnsdud555&from=postList&categoryNo=61)
+ * [마이나드 뮬러 교수의 Fundamentals of Music Processing (영문)](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html?fbclid=IwAR1fqxwAph_Q1AIs0VEOhRSPNqfFwptyryu8Dk5BLJpda3vM54SxzVYervo)
 
 ## 음성
   * 강연: [화자인식 기술 및 관련 연구 소개](https://www.youtube.com/watch?v=HzgCnlre4EE&fbclid=IwAR00Qkgb_WG_DJCmcAUOI_dgB5_KHhhMi2a-CDOAfadhsmR6RCauwmdOkmg), 네이버 D2, 허희수, 2018년 7월
