@@ -30,3 +30,4 @@
     - 번역: [Kaldi Toolkit을 이용한 음성인식 시스템의 구조 ppt (Shinozaki lab 자료 번역)](https://gogyzzz.blogspot.com/2017/08/construction-speech-recognition-system.html)
 
 ## 오디오/음향
+  * 음향 관련 기본 지식/정보 Youtube 영상 : [대림대 김도헌 교수 / 음향이론 기본 재생목록](https://www.youtube.com/playlist?list=PLIV260NdmE3RbCXw3z4917LCGlXBBzUwS)
