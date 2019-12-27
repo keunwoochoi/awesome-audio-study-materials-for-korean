@@ -11,7 +11,7 @@
 ## 공통
  * 코드: [머신러닝 적용을 위한 오디오 전처리 코드](https://github.com/scpark20/audio-preprocessing-practice?fbclid=IwAR3_Yx753Sab-E4ifDNtrZUJ1HSC_5cs-r5nQSCkKqPQP67g-EkWvJDdR1o)
  * 딥러닝으로 오디오 만나보기 
-   - 이론편 [발표자료](https://docs.google.com/presentation/d/18a4EyWXfyHsm9lhMPY1G-dZ9k5AC8s_yaK25Sa2xyj0/edit)
+   - 이론편 [발표자료](https://docs.google.com/presentation/d/18a4EyWXfyHsm9lhMPY1G-dZ9k5AC8s_yaK25Sa2xyj0/edit), 남기현, 2019년 7
    - 실전편 [발표자료](https://docs.google.com/presentation/d/1coPBGTMYyHbX7hDV_gNrVgkeQ65kVOnuN4EKq2lsv1o/edit?fbclid=IwAR3HjnF6FFrGWX-7orNdmYhPuHSm11XRcaPTXWyGkgv_JCjj6lfDKKa0Su8#slide=id.p), [케라스 오디오 전처리 코드](https://github.com/nuxlear/keras-audio?fbclid=IwAR1qdxWHk_T1hxScFECGdeFj7FIP20dyuwlS6mwDvv2WoLfR_PIPtTeHpvE), 황준원, 2019년 7월
 
 ## 음악
